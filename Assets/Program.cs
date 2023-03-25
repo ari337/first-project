@@ -6,7 +6,7 @@ namespace csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("local2 jang World!");
+            Console.WriteLine("서버파일 변경 jang World!");
 
            
         }
